@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+setup.py
+hailtheking_reader_realpython.egg-info/PKG-INFO
+hailtheking_reader_realpython.egg-info/SOURCES.txt
+hailtheking_reader_realpython.egg-info/dependency_links.txt
+hailtheking_reader_realpython.egg-info/entry_points.txt
+hailtheking_reader_realpython.egg-info/requires.txt
+hailtheking_reader_realpython.egg-info/top_level.txt
+reader/__init__.py
+reader/__main__.py
+reader/config.txt
+reader/feed.py
+reader/viewer.py
